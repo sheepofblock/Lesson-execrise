@@ -1,2 +1,1 @@
-Good job!
-You cloned this file successfully.
+Clone this repository please.
